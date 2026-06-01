@@ -1,1 +1,1 @@
-Site com ajustes visuais finais: selos alinhados, checklists limpos, setas do carrossel, depoimentos em 16:9, oferta/preço/garantia corrigidos.
+Site corrigido: preço sem sobreposição, vídeos de depoimento responsivos e prints em formato original.
