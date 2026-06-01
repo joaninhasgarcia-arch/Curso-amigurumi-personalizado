@@ -1,18 +1,18 @@
-# Site corrigido — Expert 3D
+# Site corrigido - Expert na seção dos módulos
 
-Correções aplicadas nesta versão:
+Esta versão troca a imagem da outra expert pela imagem enviada da sua expert na seção **O que você vai aprender?**, mantendo:
 
-- Removida a faixa/elipse clara que estava cobrindo o título e prejudicando a leitura.
-- Eliminado o espaço vazio grande entre o texto e a imagem da expert no mobile.
-- A expert agora aparece logo abaixo do texto, em destaque, com efeito de profundidade/3D.
-- Mantida a versão responsiva para celular, tablet e desktop.
+- Fundo claro sem manchas ou elementos brancos estranhos;
+- Transição/degradê inferior para o marrom da próxima seção;
+- Sem buracos ou grandes espaços vazios;
+- Layout responsivo para celular, tablet e desktop;
+- HTML único, pronto para subir no GitHub Pages.
 
-## Como usar no GitHub Pages
+## Como usar no GitHub
 
 1. Extraia este ZIP.
-2. Envie o arquivo `index.html` para a raiz do seu repositório.
-3. No GitHub, vá em **Settings > Pages**.
-4. Selecione a branch principal e a pasta raiz.
-5. Aguarde o GitHub publicar o link.
+2. Substitua o `index.html` antigo pelo `index.html` desta pasta.
+3. Envie o arquivo para a raiz do repositório.
+4. Ative ou atualize o GitHub Pages.
 
-Se já existir um `index.html` antigo, substitua pelo arquivo novo desta pasta.
+Se o navegador ainda mostrar a versão antiga, limpe o cache ou abra em guia anônima.
