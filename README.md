@@ -1,1 +1,1 @@
-Site corrigido para subir pelo celular no GitHub/Vercel. Suba o arquivo index.html no repositório, substituindo o antigo.
+Site ajustado para oferta Mariana Rezende: VSL removida, módulos atualizados, bônus/oferta/FAQ corrigidos.
