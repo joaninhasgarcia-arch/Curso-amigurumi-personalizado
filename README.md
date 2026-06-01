@@ -1,25 +1,18 @@
-# Site corrigido — Expert em destaque 3D
+# Site corrigido — Expert 3D
 
-Arquivo pronto para subir no GitHub e publicar pela Vercel.
+Correções aplicadas nesta versão:
 
-## O que foi ajustado nesta versão
+- Removida a faixa/elipse clara que estava cobrindo o título e prejudicando a leitura.
+- Eliminado o espaço vazio grande entre o texto e a imagem da expert no mobile.
+- A expert agora aparece logo abaixo do texto, em destaque, com efeito de profundidade/3D.
+- Mantida a versão responsiva para celular, tablet e desktop.
 
-- A expert **não fica mais atrás do texto** naquela seção intermediária.
-- A mesma imagem da expert com o boneco foi recortada e aplicada como uma camada em estilo **3D/foreground**, aparecendo mais abaixo do texto.
-- O ajuste foi feito exatamente na seção do texto que termina em **“você vai precisar!”**.
-- Foi adicionado efeito de profundidade com sombra suave e base clara arredondada, parecido com a referência que você mandou.
-- A imagem 3D foi embutida direto no `index.html`; então **não precisa subir pasta `assets`**.
-
-## Como atualizar pelo celular
+## Como usar no GitHub Pages
 
 1. Extraia este ZIP.
-2. No GitHub, abra o repositório do site.
-3. Toque em **Add file** > **Upload files**.
-4. Envie o arquivo `index.html` deste ZIP para substituir o antigo.
-5. Envie também o `README.md` se quiser manter a explicação no repositório.
-6. Toque em **Commit changes**.
-7. Aguarde a Vercel/GitHub Pages atualizar o site.
+2. Envie o arquivo `index.html` para a raiz do seu repositório.
+3. No GitHub, vá em **Settings > Pages**.
+4. Selecione a branch principal e a pasta raiz.
+5. Aguarde o GitHub publicar o link.
 
-## Observação importante
-
-Se o site ainda aparecer antigo, aguarde 1 a 2 minutos e atualize a página. Em alguns celulares, pode ser necessário limpar o cache do navegador ou abrir em aba anônima.
+Se já existir um `index.html` antigo, substitua pelo arquivo novo desta pasta.
