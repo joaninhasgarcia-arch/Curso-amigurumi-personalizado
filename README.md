@@ -1,1 +1,1 @@
-Site ajustado para oferta Mariana Rezende: VSL removida, módulos atualizados, bônus/oferta/FAQ corrigidos.
+Site com ajustes visuais finais: selos alinhados, checklists limpos, setas do carrossel, depoimentos em 16:9, oferta/preço/garantia corrigidos.
