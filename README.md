@@ -1,28 +1,25 @@
-# Site corrigido — Mariana Rezende
+# Site corrigido — Expert em destaque 3D
 
 Arquivo pronto para subir no GitHub e publicar pela Vercel.
 
-## O que foi corrigido nesta versão
+## O que foi ajustado nesta versão
 
-- A imagem da expert foi colocada **no lugar certo**: na seção intermediária, logo abaixo do texto que termina em **"você vai precisar!"**.
-- A seção **"Conheça sua professora"** não recebe mais essa troca errada.
-- A imagem nova foi embutida diretamente dentro do `index.html`, então **não precisa criar nem subir pasta `assets`**.
-- O efeito visual da seção foi mantido com versão otimizada para **desktop** e **mobile**.
-- O arquivo continua funcionando com apenas `index.html` e `README.md`.
+- A expert **não fica mais atrás do texto** naquela seção intermediária.
+- A mesma imagem da expert com o boneco foi recortada e aplicada como uma camada em estilo **3D/foreground**, aparecendo mais abaixo do texto.
+- O ajuste foi feito exatamente na seção do texto que termina em **“você vai precisar!”**.
+- Foi adicionado efeito de profundidade com sombra suave e base clara arredondada, parecido com a referência que você mandou.
+- A imagem 3D foi embutida direto no `index.html`; então **não precisa subir pasta `assets`**.
 
 ## Como atualizar pelo celular
 
 1. Extraia este ZIP.
 2. No GitHub, abra o repositório do site.
 3. Toque em **Add file** > **Upload files**.
-4. Envie apenas o arquivo `index.html` deste ZIP.
-5. Se quiser, envie também o `README.md`, mas ele é opcional.
-6. Confirme a substituição do arquivo antigo.
-7. Toque em **Commit changes**.
-8. Aguarde a Vercel atualizar o site.
+4. Envie o arquivo `index.html` deste ZIP para substituir o antigo.
+5. Envie também o `README.md` se quiser manter a explicação no repositório.
+6. Toque em **Commit changes**.
+7. Aguarde a Vercel/GitHub Pages atualizar o site.
 
-## Importante
+## Observação importante
 
-- Nesta versão, **não existe dependência de pasta `assets`**.
-- Se o GitHub mostrar somente `index.html` e `README.md`, está correto.
-- Se a página ainda aparecer antiga, aguarde 1 a 2 minutos e atualize o navegador.
+Se o site ainda aparecer antigo, aguarde 1 a 2 minutos e atualize a página. Em alguns celulares, pode ser necessário limpar o cache do navegador ou abrir em aba anônima.
