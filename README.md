@@ -20,3 +20,9 @@ Arquivo pronto para subir no GitHub e publicar pela Vercel.
 7. Aguarde a Vercel atualizar o site.
 
 Se a página ainda aparecer antiga, aguarde 1 a 2 minutos e atualize o navegador.
+
+
+## Atualização extra
+- Troca da imagem da expert da seção intermediária do site pela nova foto enviada.
+- Ajuste feito sem desestruturar o layout, com versão otimizada para desktop e mobile.
+- Novos arquivos adicionados na pasta `assets/`: `expert-secao-desktop.jpg` e `expert-secao-mobile.jpg`.
