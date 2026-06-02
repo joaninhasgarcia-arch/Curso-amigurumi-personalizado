@@ -1,18 +1,15 @@
-# Site corrigido - versão final v6
+# Site V7 final - sem pasta assets
 
-Correções aplicadas:
+Este pacote foi preparado para o GitHub/Vercel no formato solicitado: apenas `index.html` e `README.md`.
 
-- Corrigida a seção “Sistema De Indicação de Encomendas”.
-- A foto da expert não fica mais gigante nem atrás do título/texto.
-- A expert foi colocada em um bloco visual próprio abaixo da copy, modelando melhor a página de referência.
-- Mantido o fundo marrom e o degradê de transição para a próxima seção.
-- Preservados os ajustes anteriores da imagem 3D e das demais seções.
+## Como usar
 
-## Como publicar
+1. Extraia o arquivo ZIP.
+2. Suba somente estes dois arquivos para a raiz do repositório:
+   - `index.html`
+   - `README.md`
+3. Não precisa subir pasta `assets`, porque as imagens foram incorporadas dentro do próprio `index.html`.
 
-1. Extraia este ZIP.
-2. Substitua o `index.html` antigo no seu repositório por este `index.html`.
-3. Faça o commit/push no GitHub.
-4. Aguarde o GitHub Pages/Vercel atualizar.
+## Observação
 
-Se ainda aparecer a versão antiga, abra em aba anônima ou limpe o cache do navegador.
+Esta versão mantém os últimos ajustes da página, incluindo a seção da professora com Mariana Rezende e as correções anteriores de imagens/degradês.
