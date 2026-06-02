@@ -1,15 +1,20 @@
-# Site V7 final - sem pasta assets
+# Site final v8 sem assets
 
-Este pacote foi preparado para o GitHub/Vercel no formato solicitado: apenas `index.html` e `README.md`.
+Arquivos incluídos neste ZIP:
 
-## Como usar
+- index.html
+- README.md
+
+## Como subir no GitHub/Vercel
 
 1. Extraia o arquivo ZIP.
-2. Suba somente estes dois arquivos para a raiz do repositório:
-   - `index.html`
-   - `README.md`
-3. Não precisa subir pasta `assets`, porque as imagens foram incorporadas dentro do próprio `index.html`.
+2. Envie o `index.html` para a raiz do seu repositório.
+3. O arquivo já está sem pasta `assets`; as imagens estão incorporadas no próprio HTML.
+4. Faça o deploy normalmente no GitHub Pages ou Vercel.
 
-## Observação
+## Ajuste feito nesta versão
 
-Esta versão mantém os últimos ajustes da página, incluindo a seção da professora com Mariana Rezende e as correções anteriores de imagens/degradês.
+- Redução do espaço vazio grande antes do texto “Conheça sua professora!”.
+- Degradê da foto para o fundo marrom suavizado.
+- Estrutura geral preservada.
+- Sem pasta `assets`.
