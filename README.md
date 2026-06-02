@@ -1,19 +1,18 @@
-# Site corrigido - versão final v5
+# Site corrigido - versão final v6
 
-Esta versão mantém os ajustes anteriores e adiciona a troca da imagem da expert na seção **Sistema de Indicação de Encomendas**.
+Correções aplicadas:
 
-## O que foi ajustado
-
-- Substituição da imagem antiga da expert pela imagem nova enviada.
-- Manutenção do fundo marrom e do efeito de degradê para a próxima seção.
-- Correções para evitar espaços vazios, faixas brancas e cortes estranhos no mobile.
-- Arquivo pronto para publicar no GitHub Pages ou Vercel.
+- Corrigida a seção “Sistema De Indicação de Encomendas”.
+- A foto da expert não fica mais gigante nem atrás do título/texto.
+- A expert foi colocada em um bloco visual próprio abaixo da copy, modelando melhor a página de referência.
+- Mantido o fundo marrom e o degradê de transição para a próxima seção.
+- Preservados os ajustes anteriores da imagem 3D e das demais seções.
 
 ## Como publicar
 
 1. Extraia este ZIP.
-2. Envie o arquivo `index.html` para a raiz do seu repositório no GitHub.
-3. Faça commit das alterações.
-4. Aguarde o GitHub Pages ou Vercel atualizar o site.
+2. Substitua o `index.html` antigo no seu repositório por este `index.html`.
+3. Faça o commit/push no GitHub.
+4. Aguarde o GitHub Pages/Vercel atualizar.
 
-> Observação: o `index.html` já contém as imagens principais embutidas, então não precisa enviar pasta de assets para essa correção funcionar.
+Se ainda aparecer a versão antiga, abra em aba anônima ou limpe o cache do navegador.
