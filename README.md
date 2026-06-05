@@ -1,4 +1,4 @@
-# Site final v11 sem assets
+# Site final v12 sem assets
 
 Arquivos incluídos neste ZIP:
 
@@ -7,15 +7,12 @@ Arquivos incluídos neste ZIP:
 
 ## Ajustes desta versão
 
-- Removido o risco/linha verde decorativa que aparecia atrás dos checks na seção de público-alvo.
-- Ajustado o título “ACESSO COMPLETO” para não cortar no celular.
-- Mantido o Meta Pixel instalado.
-- Mantido o link do checkout Cakto.
-- ZIP sem pasta assets: as imagens continuam incorporadas no próprio HTML.
+- Primeiro plano reorganizado para ficar como plano essencial, apenas com os itens solicitados.
+- Segundo plano criado em rosa, no estilo da referência, com preço de R$110,00 riscado e preço final R$37,00 em destaque verde.
+- Checklist do plano completo com todos os itens do plano essencial + bônus adicionais enviados.
+- Layout mantido sem pasta assets; imagens continuam incorporadas no próprio HTML.
+- Demais partes da página preservadas.
 
-## Como subir no GitHub/Vercel
+## Observação
 
-1. Extraia o ZIP.
-2. Suba o arquivo `index.html` na raiz do repositório.
-3. Mantenha o `README.md` se quiser documentar a versão.
-4. Faça o deploy normalmente.
+Os dois botões continuam apontando para o mesmo checkout atual. Se você quiser, depois eu também posso separar o link de cada plano.
