@@ -1,4 +1,4 @@
-# Site final v13 sem assets
+# Site final v14 sem assets
 
 Arquivos incluídos neste ZIP:
 
@@ -7,10 +7,10 @@ Arquivos incluídos neste ZIP:
 
 ## Ajuste desta versão
 
-- Correção específica para o navegador interno do Instagram.
-- O título do plano completo foi ajustado para não cortar dentro do WebView do Instagram.
-- Mantidos os dois planos, o Meta Pixel, o checkout e o formato sem pasta assets.
+- Corrigida a margem dos cards de oferta para não ficar colada na direita.
+- Mantida a correção do título do plano completo para o navegador interno do Instagram.
+- Mantidos os dois planos, Meta Pixel, links de checkout e formato sem pasta assets.
 
 ## Como testar
 
-Depois de subir o novo index.html, teste também abrindo a URL com ?v=13 no final para evitar cache do Instagram.
+Depois de subir o novo arquivo, teste usando ?v=14 no final do link para evitar cache do Instagram.
